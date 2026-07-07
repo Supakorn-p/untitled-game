@@ -9,22 +9,22 @@ date: [7/7/2026]
 ## Core Loop
 ```mermaid
 flowchart LR
-    A[เริ่มต้น] --> B[Action หลัก]
+    A[เริ่มต้น] --> B[สำรวจสถานที่]
     B --> C[ผลลัพธ์]
-    C --> D[Reward / Consequence]
+    C --> D[ได้รับรู้บรรยกาศของโลก]
     D --> B
 ```
 
 ## Core Mechanics
-1. [Mechanic หลักที่ 1 — อธิบายสั้น ๆ]
-2. [Mechanic หลักที่ 2]
+1. 
+2. 
 
 ## Controls
 | Key | Action |
 |---|---|
-| ← → | Move |
-| Space | Jump |
-| [อื่นๆ] | [action] |
+| WASD/Arrow Keys | Move |
+| Z | Use Weapon |
+| X | Use Item |
 
 ## Win / Lose Condition
 - **ชนะเมื่อ:** [เงื่อนไข]
