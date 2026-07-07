@@ -1,10 +1,10 @@
 ---
 type: gdd-core-loop
 version: 0.1
-date: [วันที่]
+date: [7/7/2026]
 ---
 
-# [ชื่อเกม] — Core Loop & Gameplay
+# [WONDERLAND] — Core Loop & Gameplay
 
 ## Core Loop
 ```mermaid
