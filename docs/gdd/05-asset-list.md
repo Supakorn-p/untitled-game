@@ -16,16 +16,18 @@ date: [วันที่]
 
 | Asset Name | คำอธิบาย | แหล่งที่มา | License | สถานะ | รับผิดชอบ |
 |---|---|---|---|---|---|
-| `sfx_jump.wav` | เสียงกระโดด | [ลิงก์] | [license] | 🔲 Not Started | [ชื่อ] |
+| `click1.wav` | เสียงคลิก | [https://kenney.nl/assets/ui-audio] | [license] | 🔲 Not Started | [ชื่อ] |
+| `switch.wav` | เสียงสวิชต์ | [https://kenney.nl/assets/ui-audio] | [license] | 🔲 Not Started | [ชื่อ] |
+| `explosionCrunch_000.wav` | เสียงสวิชต์ | [https://kenney.nl/assets/ui-audio] | [license] | 🔲 Not Started | [ชื่อ] |
 
 ## Audio — Music
 
 | Asset Name | คำอธิบาย | แหล่งที่มา | License | สถานะ | รับผิดชอบ |
 |---|---|---|---|---|---|
-| `bgm_stage_01.mp3` | เพลงด่านแรก | [ลิงก์] | [license] | 🔲 Not Started | [ชื่อ] |
-
+| `bgm_stage_01.mp3` | เพลงด่านแรก | [https://opengameart.org/content/free-music-pack] | [license] | 🔲 Not Started | [ชื่อ] |
 ## Fonts
 
 | Asset Name | คำอธิบาย | แหล่งที่มา | License | สถานะ | รับผิดชอบ |
 |---|---|---|---|---|---|
-| `fnt_ui_main.ttf` | Font หลักสำหรับ UI | [ลิงก์] | [license] | 🔲 Not Started | [ชื่อ] |
+| `PirataOne-Regula_ui_main.ttf` | Font สำหรับ  | [https://fonts.google.com/specimen/Pirata+One?categoryFilters=Appearance:%2FTheme%2FBlackletter&preview.script=Latn] | [license] | 🔲 Not Started | [ชื่อ] |
+| `PirataOne-Regula_ui_main.ttf` | Font สำหรับ  | [https://fonts.google.com/specimen/Pirata+One?categoryFilters=Appearance:%2FTheme%2FBlackletter&preview.script=Latn] | [license] | 🔲 Not Started | [ชื่อ] |
