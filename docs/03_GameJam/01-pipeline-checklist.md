@@ -1,8 +1,8 @@
 ---
 type: jam-pipeline
 version: 0.1
-date: [วันที่]
-team: [ชื่อทีม]
+date: [7/21/2026]
+team: [Vunique Inc.]
 ---
 
 # Pipeline Function Checklist — [ชื่อเกม]
